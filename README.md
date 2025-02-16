@@ -1,2 +1,3 @@
 # mydemorepo
-my first repo
+my first repo for git .
+author-asmita bhoir .
